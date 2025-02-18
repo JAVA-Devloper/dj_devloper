@@ -9,4 +9,6 @@ body{
     align-items: center;
     height: 100vh;
     text-shadow: 3rem;
+    font-style: italic;
+    color: crimson;
 }
